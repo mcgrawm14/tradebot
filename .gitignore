@@ -1,0 +1,3 @@
+master/**/*.pyc
+*.pyc
+*config.py
